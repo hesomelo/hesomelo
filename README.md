@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oscar Lu 
+- hey i'm oscar! feel free to reach out on linkedin https://www.linkedin.com/in/oscar-lu/
 
 <!---
 hesomelo/hesomelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
